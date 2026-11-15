@@ -81,7 +81,7 @@ Interactive sales analysis dashboard built in Power BI:
 - Data modeling and KPI measures with DAX
 - Interactive dashboard with Region, Category, and Year slicers
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-GLOBAL_SUPERSTORE_DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=4d4d4d)](https://github.com/your-username/Global-Superstore-Dashboard)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-GLOBAL_SUPERSTORE_DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=4d4d4d)]([https://github.com/your-username/Global-Superstore-Dashboard](https://github.com/GarimaRajput-22/Global_superstore_analysis))
 
 ![Global Superstore Dashboard](Global_Superstore-dashboard.png)
 

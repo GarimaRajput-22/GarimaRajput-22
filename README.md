@@ -24,7 +24,7 @@ I'm a fresher data analyst who enjoys finding the story behind the numbers. I bu
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Techniques:** Data Cleaning • Exploratory Data Analysis (EDA) • Joins & Window Functions • Power Query • Power Pivot • Dashboard Design
-## 🚀 Featured Projects
+**## 🚀 Featured Projects
 
 ## 💰 Financial Performance & Profitability Dashboard
 
@@ -74,7 +74,7 @@ Data cleaning and modeling for sales analysis:
 - Data modeling with Power Pivot
 - Interactive sales dashboard
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-NEXORA_SALES_DASHBOARD-217346?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Nexora-retail-solutions-sales-analysis)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-NEXORA_SALES_DASHBOARD-217346?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Nexora-retail-solutions-sales-analysis)**
 
 
 

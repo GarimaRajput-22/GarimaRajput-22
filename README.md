@@ -24,12 +24,67 @@ I'm a fresher data analyst who enjoys finding the story behind the numbers. I bu
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Techniques:** Data Cleaning • Exploratory Data Analysis (EDA) • Joins & Window Functions • Power Query • Power Pivot • Dashboard Design
+## 🚀 Featured Projects
 
-# featured projects
+## 💰 Financial Performance & Profitability Dashboard
 
-| Preview | Project | Tools |
-|---|---|---|
-| <img src="assets/financial-dashboard.png" width="200"> | [**Financial Performance Dashboard**](https://github.com/GarimaRajput-22/Financial-performance-and-profitability-dashboard)<br>Interactive dashboard analyzing profitability | Advanced Excel |
+**Advanced Excel • Pivot Tables • KPI Design**
+
+Interactive dashboard analyzing company financial performance:
+
+- Revenue, cost, and profit analysis
+- Profitability trends and comparisons
+- Executive KPI summary
+- Business insight extraction
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-FINANCIAL_DASHBOARD-217346?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Financial-performance-and-profitability-dashboard)
+
+![Financial Dashboard](assets/financial-dashboard.png)
+
+## 🛒 Retail Sales Analysis
+
+**MySQL • Joins • Window Functions**
+
+Business questions answered with SQL:
+
+- Multi-table joins to combine sales data
+- Window functions for rankings and running totals
+- Insights on products, customers, and revenue
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-RETAIL_SALES_ANALYSIS-4479A1?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Retail_Sales_Analysis)
+
+![Retail Sales Analysis](assets/retail-sales-sql.png)
+
+## 🧠 Customer Behaviour Analysis
+
+**Python • SQL • Power BI**
+
+End-to-end analytics lifecycle:
+
+- Data retrieval with SQL
+- Exploratory data analysis in Python
+- Interactive Power BI report
+- Business insight extraction
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-CUSTOMER_BEHAVIOUR-F2C811?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Consumer-behaviour-analysis-project-2-)
+
+![Customer Behaviour Analysis](assets/customer-behaviour-powerbi.png)
+
+## 📊 Nexora Retail Solutions Sales Dashboard
+
+**Excel • Power Query • Power Pivot**
+
+Data cleaning and modeling for sales analysis:
+
+- Data cleaning with Power Query Editor
+- Data modeling with Power Pivot
+- Interactive sales dashboard
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-NEXORA_SALES_DASHBOARD-217346?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Nexora-retail-solutions-sales-analysis)
+
+![Nexora Dashboard](assets/nexora-dashboard.png)
+
+
 
 ## 📚 Currently Learning
 

@@ -39,6 +39,9 @@ Interactive dashboard analyzing company financial performance:
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-FINANCIAL_DASHBOARD-217346?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Financial-performance-and-profitability-dashboard)
 
+![Financial Dashboard](financial-dashboard.png)
+
+
 ## 🛒 Retail Sales Analysis
 
 **MySQL • Joins • Window Functions**

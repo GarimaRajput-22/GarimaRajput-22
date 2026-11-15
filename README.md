@@ -54,6 +54,21 @@ Data cleaning and modeling for sales analysis:
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-NEXORA_SALES_DASHBOARD-217346?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Nexora-retail-solutions-sales-analysis)
 
+## 🧠 Customer Behaviour Analysis
+
+**Python • SQL • Power BI**
+
+End-to-end analytics lifecycle:
+
+- Data retrieval with SQL
+- Exploratory data analysis in Python
+- Interactive Power BI report
+- Business insight extraction
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-CUSTOMER_BEHAVIOUR-F2C811?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Consumer-behaviour-analysis-project-2-)
+
+![Customer Behaviour Analysis](customer-behaviour-powerbi.png)
+
 ![Nexora Dashboard](nexora-dashboard.png)
 
 ## 📊 Global Superstore Sales Dashboard
@@ -92,21 +107,6 @@ Interactive sales analysis dashboard built in Power BI:
 - Power BI Desktop
 - Power Query Editor
 - DAX
-
-## 🧠 Customer Behaviour Analysis
-
-**Python • SQL • Power BI**
-
-End-to-end analytics lifecycle:
-
-- Data retrieval with SQL
-- Exploratory data analysis in Python
-- Interactive Power BI report
-- Business insight extraction
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-CUSTOMER_BEHAVIOUR-F2C811?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Consumer-behaviour-analysis-project-2-)
-
-![Customer Behaviour Analysis](customer-behaviour-powerbi.png)
 
 ## 🛒 Retail Sales Analysis
 

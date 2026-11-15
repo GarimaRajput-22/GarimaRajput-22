@@ -40,18 +40,10 @@ I'm a fresher data analyst who enjoys finding the story behind the numbers. I bu
 - 📊 Data visualization with Matplotlib
 - 🤖 Machine learning fundamentals
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GarimaRajput-22&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaRajput-22&layout=compact&hide_border=true" alt="Top languages">
-</p>
-
 ## 🤝 Let's Connect
 
-I'm open to **data analyst opportunities and internships**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or by [email](mailto:YOUR-EMAIL@example.com).
+I'm open to **data analyst opportunities and internships**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/garima-rajput-047b61346) or by [email](mailto:garimarajputapril@gmail.com).
 
 <p align="center"><i>"Without data, you're just another person with an opinion."</i></p>
 
-## Let's connect
-[LinkedIn](www.linkedin.com/in/garima-rajput-047b61346) • [Email](garimarajputapril@gmail.com)
+

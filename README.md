@@ -39,8 +39,6 @@ Interactive dashboard analyzing company financial performance:
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-FINANCIAL_DASHBOARD-217346?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Financial-performance-and-profitability-dashboard)
 
-![Financial Dashboard](assets/financial-dashboard.png)
-
 ## 🛒 Retail Sales Analysis
 
 **MySQL • Joins • Window Functions**
@@ -52,8 +50,6 @@ Business questions answered with SQL:
 - Insights on products, customers, and revenue
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-RETAIL_SALES_ANALYSIS-4479A1?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Retail_Sales_Analysis)
-
-![Retail Sales Analysis](assets/retail-sales-sql.png)
 
 ## 🧠 Customer Behaviour Analysis
 
@@ -68,8 +64,6 @@ End-to-end analytics lifecycle:
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-CUSTOMER_BEHAVIOUR-F2C811?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Consumer-behaviour-analysis-project-2-)
 
-![Customer Behaviour Analysis](assets/customer-behaviour-powerbi.png)
-
 ## 📊 Nexora Retail Solutions Sales Dashboard
 
 **Excel • Power Query • Power Pivot**
@@ -81,8 +75,6 @@ Data cleaning and modeling for sales analysis:
 - Interactive sales dashboard
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-NEXORA_SALES_DASHBOARD-217346?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Nexora-retail-solutions-sales-analysis)
-
-![Nexora Dashboard](assets/nexora-dashboard.png)
 
 
 

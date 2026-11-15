@@ -27,7 +27,7 @@ I'm a fresher data analyst who enjoys finding the story behind the numbers. I bu
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tools |
+| Project | Tools |
 |---|---|---|
 | [**Financial Performance & Profitability Dashboard**](https://github.com/GarimaRajput-22/Financial-performance-and-profitability-dashboard) | Analyzed financial performance and profitability using an interactive Excel dashboard. | Advanced Excel |
 | [**Retail Sales Analysis**](https://github.com/GarimaRajput-22/Retail_Sales_Analysis) | Answered business questions on retail sales using joins and window functions. | MySQL |

@@ -70,6 +70,43 @@ Business questions answered with SQL:
 
 ![Retail Sales Analysis](retail-sales-sql.png)
 
+## 📊 Global Superstore Sales Dashboard
+
+**Power BI • DAX • Data Modeling**
+
+Interactive sales analysis dashboard built in Power BI:
+
+- Data cleaning and transformation with Power Query
+- Data modeling and KPI measures with DAX
+- Interactive dashboard with Region, Category, and Year slicers
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-GLOBAL_SUPERSTORE_DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=4d4d4d)](https://github.com/your-username/Global-Superstore-Dashboard)
+
+![Global Superstore Dashboard](Global_Superstore-dashboard.png)
+
+### 🔑 Key Insights
+
+- **Total sales: 13M**, split across Technology (5M), Furniture (4M), and Office Supplies (4M)
+- **Consumer** is the largest segment (51.7% of sales), followed by Corporate (30.1%) and Home Office (18.2%)
+- **Central** is the top-performing region by total sales, while **Canada** is the lowest
+- Sales and profit are tracked by day of the week to spot weekly trends
+
+### 📈 Dashboard Features
+
+- **KPI cards:** Total, Furniture, Office Supplies, and Technology sales
+- **Pie chart:** Sum of Sales by Segment
+- **Funnel chart:** Count of Profit by Segment
+- **Combo chart:** Sum of Profit and Total Sales by Day Name
+- **Map:** Sum of Quantity by Country
+- **Bar chart:** Total Sales by Region
+- **Slicers:** Region, Category, and Year (2011–2014)
+
+### 🛠️ Tools Used
+
+- Power BI Desktop
+- Power Query Editor
+- DAX
+
 ## 🧠 Customer Behaviour Analysis
 
 **Python • SQL • Power BI**

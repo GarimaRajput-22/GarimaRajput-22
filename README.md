@@ -25,14 +25,11 @@ I'm a fresher data analyst who enjoys finding the story behind the numbers. I bu
 
 **Techniques:** Data Cleaning • Exploratory Data Analysis (EDA) • Joins & Window Functions • Power Query • Power Pivot • Dashboard Design
 
-## 🚀 Featured Projects
+# featured projects
 
-| Project | Tools |
+| Preview | Project | Tools |
 |---|---|---|
-| [**Financial Performance & Profitability Dashboard**](https://github.com/GarimaRajput-22/Financial-performance-and-profitability-dashboard) | Analyzed financial performance and profitability using an interactive Excel dashboard. | Advanced Excel |
-| [**Retail Sales Analysis**](https://github.com/GarimaRajput-22/Retail_Sales_Analysis) | Answered business questions on retail sales using joins and window functions. | MySQL |
-| [**Customer Behaviour Analysis**](https://github.com/GarimaRajput-22/Consumer-behaviour-analysis-project-2-) | End-to-end project: data retrieval with SQL, EDA in Python, and a Power BI report for visualization. | Python, SQL, Power BI |
-| [**Nexora Retail Solutions Sales Dashboard**](https://github.com/GarimaRajput-22/Nexora-retail-solutions-sales-analysis) | Cleaned and modeled sales data to build an analysis dashboard. | Excel, Power Query, Power Pivot |
+| <img src="assets/financial-dashboard.png" width="200"> | [**Financial Performance Dashboard**](https://github.com/GarimaRajput-22/Financial-performance-and-profitability-dashboard)<br>Interactive dashboard analyzing profitability | Advanced Excel |
 
 ## 📚 Currently Learning
 

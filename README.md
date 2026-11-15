@@ -1,4 +1,4 @@
-# Hi, I'm [Garima Rajput]
+# Hi, I'm Garima Rajput
 
 *Aspiring Data Analyst* | Turning raw data into clear insights 📊
 
@@ -13,10 +13,10 @@ I'm a fresher data analyst who enjoys finding stories in data. I'm currently lea
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ## Featured projects
-- *[financial profitability analysis](link)*:Analysis using (Advanced Excel)
-- *[Retail sales analysis](link)*: Business questions answered with joins and window functions in (MY SQL)
-- *[Customer behaviour analysis](link)*:End to End EDA performed using python and data retrieving with sql,used power bi for visualisation and report. 
-- *[Nexora retail solution sales analysis dashboard](link)*: Data cleaning and analysis with power pivot and power query editor in Excel in excel 
+- *[financial profitability analysis](https://github.com/GarimaRajput-22/Financial-performance-and-profitability-dashboard)*:Analysis using (Advanced Excel)
+- *[Retail sales analysis](https://github.com/GarimaRajput-22/Retail_Sales_Analysis.)*: Business questions answered with joins and window functions in (MY SQL)
+- *[Customer behaviour analysis](https://github.com/GarimaRajput-22/Consumer-behaviour-analysis-project-2-)*:End to End EDA performed using python and data retrieving with sql,used power bi for visualisation and report. 
+- *[Nexora retail solution sales analysis dashboard](https://github.com/GarimaRajput-22/Nexora-retail-solutions-sales-analysis))*: Data cleaning and analysis with power pivot and power query editor in Excel in excel 
 
 ## Currently learning
 Statistics • Matplotlib • Machine learning basics

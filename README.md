@@ -54,7 +54,7 @@ Data cleaning and modeling for sales analysis:
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-NEXORA_SALES_DASHBOARD-217346?style=for-the-badge&logo=github&logoColor=white&labelColor=4d4d4d)](https://github.com/GarimaRajput-22/Nexora-retail-solutions-sales-analysis)
 
-![Nexora Dashboard](nexora-dashboard.png)
+![Nexora Dashboard](Nexora_Dashboard.png)
 
 ## 🧠 Customer Behaviour Analysis
 
